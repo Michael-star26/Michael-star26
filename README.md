@@ -2,9 +2,9 @@
 - 👀 I’m interested in Software Development, primarily focused on web and Android Development
 - 🌱 I’m currently polishing my skills on MEAN stack development and Flutter
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: Email: mickypnyango15442gmail.com
+- 📫 How to reach me: Email: mickyonyango1544@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning. When it comes to MEAN stack and Flutter, i am self taught 😄😄
+- ⚡ Fun fact: I am a quick learner. When it comes to MEAN stack and Flutter, i am self taught 😄😄
 - Gaming is my hobby :)
 
 <!---
