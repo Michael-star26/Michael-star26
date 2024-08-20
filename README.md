@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in Software Development, primarily focused on web and Android Development
+- -I'm open for work
 - 🌱 I’m currently polishing my skills on MEAN stack development and Flutter
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: Email: mickyonyango1544@gmail.com
