@@ -1,50 +1,62 @@
-<div align="center">
-
 # MICHAEL OWINO
 
-`SOFTWARE · DATA · ACTUARIAL`
+`ACTUARIAL SCIENCE / SOFTWARE / DATA`
 
-⌁
+Kenya · Multimedia University of Kenya
 
-</div>
+---
 
-<br>
-
-## `WORK`
+## WORK
 
 **LEVELA**
-Student platform for housing, services & opportunities.
+Student platform for housing, services and opportunities.
 
 `Angular` `Flask` `MySQL`
 
-<br>
-
 **YELLOW PAGES**
-Personal publishing & journal project.
+Personal writing and journal archive.
 
-`Angular` `TypeScript`
+`Web`
 
-<br>
+**MORE**
+Software, data and actuarial experiments.
 
-**SELECTED PROJECTS**
-Software · Data · Experiments
+---
 
-<br>
+## STACK
 
-## `STACK`
+`Python` · `TypeScript` · `Angular` · `Flask` · `SQL` · `Docker`
 
-`Python` `TypeScript` `Angular` `Flask` `SQL`
+---
 
-<br>
+## WRITING
 
-## `LINKS`
+[Substack] · [Medium]
 
-[GitHub] · [LinkedIn] · [Substack] · [Medium]
+---
 
-<br>
+`2026`
+:root {
+  --font-typewriter-header: 'Special Elite', 'Courier Prime', monospace;
+  --font-typewriter-body: 'Courier Prime', 'Courier New', monospace;
 
-<div align="center">
+  --paper: #f5f1e8;
+  --ink: #171717;
+  --muted: #77736b;
+  --line: #c9c3b8;
+  --accent: #9b3027;
+}
 
-`⌁ 2026`
+h1,
+h2 {
+  font-family: var(--font-typewriter-header);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
 
-</div>
+body,
+p,
+li,
+code {
+  font-family: var(--font-typewriter-body);
+}
